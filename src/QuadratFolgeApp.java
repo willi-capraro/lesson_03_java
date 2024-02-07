@@ -1,4 +1,4 @@
-public class QuadratFolge {
+public class QuadratFolgeApp {
     public static void main(String[] args) {
         int n = 5;
         int x = 2;
